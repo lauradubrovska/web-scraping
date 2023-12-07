@@ -1,0 +1,4 @@
+<li class="interlanguage-link interwiki-da mw-list-item">
+<a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Frank_Ocean" 
+hreflang="da" lang="da" title="Frank Ocean – Danish"><span>Dansk</span></a>
+</li>
